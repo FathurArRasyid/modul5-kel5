@@ -1,0 +1,82 @@
+{
+    "user": [
+        {
+            "name": "FATHUR",
+            "username": "tur",
+            "email": "fathur@gmail.com",
+            "address": "jakarta"
+        },
+        {
+            "name": "rahman",
+            "username": "man",
+            "email": "rahman@gmail.com",
+            "address": "depok"
+        },
+        {
+            "name": "rasyid",
+            "username": "syid",
+            "email": "rasyid@gmail.com",
+            "address": "ciamis"
+        },
+        {
+            "name": "brenda",
+            "username": "bren",
+            "email": "brenda@gmail.com",
+            "address": "jakarta"
+        },
+        {
+            "name": "aurora",
+            "username": "rora",
+            "email": "aurora@gmail.com",
+            "address": "tanggerang"
+        },
+        {
+            "name": "dion",
+            "username": "dionn",
+            "email": "dion@gmail.com",
+            "address": "bandung"
+        },
+        {
+            "name": "almaida",
+            "username": "alma",
+            "email": "almaida@gmail.com",
+            "address": "jakarta"
+        },
+        {
+            "name": "syifa",
+            "username": "syif",
+            "email": "syifa@gmail.com",
+            "address": "ciamis"
+        },
+        {
+            "name": "kamila",
+            "username": "mila",
+            "email": "kamila@gmail.com",
+            "address": "depok"
+        },
+        {
+            "name": "alfiyah",
+            "username": "fia",
+            "email": "alfiyah@gmail.com",
+            "address": "jakarta"
+        },
+        {
+            "name": "salsa",
+            "username": "sal",
+            "email": "salsa@gmail.com",
+            "address": "depok"
+        },
+        {
+            "name": "bila",
+            "username": "laa",
+            "email": "bila@gmail.com",
+            "address": "ciamis"
+        },
+        {
+            "name": "dinar",
+            "username": "din",
+            "email": "dinar@gmail.com",
+            "address": "bogor"
+        }
+    ]
+}
